@@ -1,0 +1,23 @@
+2023-08-06 03:32:30.352491 - Initialized conversion of CBT344
+2023-08-06 03:32:30.552054 - Received CBT.V505.FILE344.PDS from FILE344.XMI 
+2023-08-06 03:32:30.554735 - Found $$$#DATE.txt (text/plain) in CBT.V505.FILE344.PDS, moved to PDS/$$$#DATE
+2023-08-06 03:32:30.555713 - Found $$$DOC.txt (text/plain) in CBT.V505.FILE344.PDS, moved to PDS/$$$DOC
+2023-08-06 03:32:30.556671 - Found @FILE344.txt (text/plain) in CBT.V505.FILE344.PDS, moved to PDS/@FILE344
+2023-08-06 03:32:30.557550 - Found ADD.rexx (text/plain) in CBT.V505.FILE344.PDS, moved to PDS/ADD
+2023-08-06 03:32:30.558425 - Found AWSEXTRA.rexx (text/plain) in CBT.V505.FILE344.PDS, moved to PDS/AWSEXTRA
+2023-08-06 03:32:30.559442 - Found DELNOENQ.rexx (text/plain) in CBT.V505.FILE344.PDS, moved to PDS/DELNOENQ
+2023-08-06 03:32:30.560308 - Found HLQINFO.rexx (text/plain) in CBT.V505.FILE344.PDS, moved to PDS/HLQINFO
+2023-08-06 03:32:30.561182 - Found LDDDEF.rexx (text/plain) in CBT.V505.FILE344.PDS, moved to PDS/LDDDEF
+2023-08-06 03:32:30.562015 - Found LISTVTOC.rexx (text/plain) in CBT.V505.FILE344.PDS, moved to PDS/LISTVTOC
+2023-08-06 03:32:30.562860 - Found LZ.rexx (text/plain) in CBT.V505.FILE344.PDS, moved to PDS/LZ
+2023-08-06 03:32:30.563887 - Found LZD.rexx (text/plain) in CBT.V505.FILE344.PDS, moved to PDS/LZD
+2023-08-06 03:32:30.564881 - Found MACRORES.txt (text/plain) in CBT.V505.FILE344.PDS, moved to PDS/MACRORES
+2023-08-06 03:32:30.565806 - Found MAN.jcl (text/plain) in CBT.V505.FILE344.PDS, moved to PDS/MAN
+2023-08-06 03:32:30.566727 - Found OMVSSEG.rexx (text/plain) in CBT.V505.FILE344.PDS, moved to PDS/OMVSSEG
+2023-08-06 03:32:30.567565 - Found SHOWDP.rexx (text/plain) in CBT.V505.FILE344.PDS, moved to PDS/SHOWDP
+2023-08-06 03:32:30.568384 - Found SMPEWARN.rexx (text/plain) in CBT.V505.FILE344.PDS, moved to PDS/SMPEWARN
+2023-08-06 03:32:30.569258 - Found TBDISP.rexx (text/plain) in CBT.V505.FILE344.PDS, moved to PDS/TBDISP
+2023-08-06 03:32:30.570099 - Found TRACKS.rexx (text/plain) in CBT.V505.FILE344.PDS, moved to PDS/TRACKS
+2023-08-06 03:32:30.570953 - Found VGET.rexx (text/plain) in CBT.V505.FILE344.PDS, moved to PDS/VGET
+2023-08-06 03:32:30.571777 - Found VGETTAB.txt (text/plain) in CBT.V505.FILE344.PDS, moved to PDS/VGETTAB
+2023-08-06 03:32:30.572637 - Found Y99.rexx (text/plain) in CBT.V505.FILE344.PDS, moved to PDS/Y99
